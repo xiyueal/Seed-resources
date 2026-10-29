@@ -1122,329 +1122,329 @@
       "sha256": "b88b620dddd98bff995e69b4992167acd815f8a2061f5707dd008f9613cc30a4"
     },
     "network/edges-00.json.gz": {
-      "bytes": 113941,
-      "decodedBytes": 434449,
-      "sha256": "9778f10b432c4f5484d61fbbc0c68f76bbba78bd89f5cace582fbf9a879c18a0"
+      "bytes": 190316,
+      "decodedBytes": 677369,
+      "sha256": "7101ae826567135d588af4fe1f5ea23b15bcaa025feaac0051bb060c37b10daa"
     },
     "network/edges-01.json.gz": {
-      "bytes": 108551,
-      "decodedBytes": 411115,
-      "sha256": "293241cdf4e1daf082d8fb68b668136331a3a1781512062d8222246e33d92af4"
+      "bytes": 174049,
+      "decodedBytes": 624956,
+      "sha256": "e770661ba1064325e2c53e0401c20aae43c8188b43aaa8fd7a8d42ab3975004c"
     },
     "network/edges-02.json.gz": {
-      "bytes": 100458,
-      "decodedBytes": 386358,
-      "sha256": "0b69a9b36fee75a816469a01ef8490f2bb1b1c2736470f31bb466c41fa3262bd"
+      "bytes": 160779,
+      "decodedBytes": 582552,
+      "sha256": "3c43d651d5bacc179b8ca3bfc93647aaada8cc6f735accddf25a2fe98fcff51b"
     },
     "network/edges-03.json.gz": {
-      "bytes": 98313,
-      "decodedBytes": 372391,
-      "sha256": "f1a9d5aea656e4caa0b19bea5236bf2ba942294beb48a1dfa5df8fee116604d4"
+      "bytes": 157228,
+      "decodedBytes": 562501,
+      "sha256": "80057d2703ff85efe75241135170f13f5fdc4481e8765019b06134e2977c6272"
     },
     "network/edges-04.json.gz": {
-      "bytes": 97187,
-      "decodedBytes": 364411,
-      "sha256": "27e3fa4505ccf6068bd31b22b8fecbbd250eef72ab578aa85b15f04b35503ed5"
+      "bytes": 155196,
+      "decodedBytes": 552423,
+      "sha256": "e47c2bfffe5b7c88c160cea2de87dbdccf8d5b2e50db2cd6f6011fdac1a14fda"
     },
     "network/edges-05.json.gz": {
-      "bytes": 99780,
-      "decodedBytes": 377628,
-      "sha256": "aa60385728ba2549508cb24b7d088d031b4ea7e0c5d843a0e8a101ab00a61dc5"
+      "bytes": 163815,
+      "decodedBytes": 583821,
+      "sha256": "2b41940e48f29c48b13b6e2be627e8297631ed2c9603b8155f172d58b048226e"
     },
     "network/edges-06.json.gz": {
-      "bytes": 95779,
-      "decodedBytes": 361147,
-      "sha256": "ffa2521a99672e5102b8598655ad9d2880ba60b802ab2a15d7ef63ae4357d50d"
+      "bytes": 152227,
+      "decodedBytes": 543596,
+      "sha256": "dd4ca96b44f81f46b04820fcbc58fda5d559d2648ee9938f912456164fa8ff00"
     },
     "network/edges-07.json.gz": {
-      "bytes": 101817,
-      "decodedBytes": 384826,
-      "sha256": "b8d2679eac8b6966ace308644ab1fb63014f42eac1b0c7a886380ce29b7be046"
+      "bytes": 167389,
+      "decodedBytes": 594492,
+      "sha256": "3497e1ce76f47f6fb03ef2af9dd28971d5e96cc2faa6b2e07f3fdc146f8d39c7"
     },
     "network/edges-08.json.gz": {
-      "bytes": 98001,
-      "decodedBytes": 371153,
-      "sha256": "51fba4eaeec48877ca5adbe1d1878fe19c84866b3acb19d904e40580a98e741d"
+      "bytes": 157675,
+      "decodedBytes": 563884,
+      "sha256": "dfb82064749878524903a31f625d66fb90ffd3ca8b1bdd2b2190e38a1390d9ed"
     },
     "network/edges-09.json.gz": {
-      "bytes": 96193,
-      "decodedBytes": 365513,
-      "sha256": "c909cd225a4066fa19301d5d9c09e72acec5f609766dd4bbc9c4315162ba50fb"
+      "bytes": 153963,
+      "decodedBytes": 551113,
+      "sha256": "afc459e8bb6aaa4c1e56d81bcebae5a3cc93977b2fa70894275e3533fd17149b"
     },
     "network/edges-0a.json.gz": {
-      "bytes": 94839,
-      "decodedBytes": 358523,
-      "sha256": "e650bfe997290695f95f1fbf2a27f1c5ae603fe23166d86be65ec178c76114a1"
+      "bytes": 149066,
+      "decodedBytes": 536364,
+      "sha256": "2494a3370f13c09fa52b1b9c153c7e24c502f260d04ec482d3b2224e9adca2a5"
     },
     "network/edges-0b.json.gz": {
-      "bytes": 108200,
-      "decodedBytes": 410417,
-      "sha256": "37cfa0e99025ee6b34467c3e152a7b18f11b38308c6673a1b825df301ea46400"
+      "bytes": 173924,
+      "decodedBytes": 623577,
+      "sha256": "62fcac50ced9e5cdb7ac1d203e59a44e8cd6dc0e0f6455efad863dcf901f495a"
     },
     "network/edges-0c.json.gz": {
-      "bytes": 104151,
-      "decodedBytes": 394039,
-      "sha256": "d3c25200188f12c2bb11cd88623f26a1434cb14de931a566cf0976837c27a7c6"
+      "bytes": 167225,
+      "decodedBytes": 600033,
+      "sha256": "c2b8a12b9b6010f4a20d155d31a473af144a9369d12ccfd58caf4323c01caecb"
     },
     "network/edges-0d.json.gz": {
-      "bytes": 97843,
-      "decodedBytes": 373900,
-      "sha256": "9eacc3a3a3377be67e75e64b72d35c507eb6aff46fe8effe1fa41ebc77ad0207"
+      "bytes": 161124,
+      "decodedBytes": 575134,
+      "sha256": "8ef81ed9ef71489321fae93a63256d2b88878b52c86b3defaba0ccd1f0850bfe"
     },
     "network/edges-0e.json.gz": {
-      "bytes": 91612,
-      "decodedBytes": 345345,
-      "sha256": "9722bacecfe8a4229590e58e1ff41efcae0745dfc9cc072183c7e06173fe7271"
+      "bytes": 143842,
+      "decodedBytes": 513978,
+      "sha256": "cd5b26bd2919ea6c0fef3570f60e71fbb7dac5542c7e882c05b8a33d5ef5312c"
     },
     "network/edges-0f.json.gz": {
-      "bytes": 104947,
-      "decodedBytes": 399087,
-      "sha256": "ad4fd2fec3e25e9010a25c17227768520c89afee8c594d70b80fb8eac68ade6c"
+      "bytes": 170443,
+      "decodedBytes": 611460,
+      "sha256": "8ba4646f3544e9b30a190303d2f47d621860f75d67eea8bbf54beba5cb5ebaa6"
     },
     "network/edges-10.json.gz": {
-      "bytes": 102313,
-      "decodedBytes": 391755,
-      "sha256": "5ba3888ee3bb5c543a9cda34d9d3e5f65f78aa9f0c4f1bb3ecbbec70170e9561"
+      "bytes": 166321,
+      "decodedBytes": 599691,
+      "sha256": "622e40946934c6d6c5fd5951fb92ad12b47e6b3091cd1d6b5d376d11e57f0119"
     },
     "network/edges-11.json.gz": {
-      "bytes": 113942,
-      "decodedBytes": 443791,
-      "sha256": "090cc3572d48aea99639d200c7af9af2c5b82ac6f15a4eb1fd1aebebc2aaf167"
+      "bytes": 180261,
+      "decodedBytes": 663962,
+      "sha256": "fa9daf6a4f17bf8cb1563b50eb6c0c0867199fec20fd96ee36bc9d32338acdf2"
     },
     "network/edges-12.json.gz": {
-      "bytes": 102948,
-      "decodedBytes": 392352,
-      "sha256": "d628931ac67585ccf984f7e525c52fe6e5407fb6b2185405c904108a61fafaf5"
+      "bytes": 163870,
+      "decodedBytes": 592372,
+      "sha256": "f26c455de50358bcceec456ef5ec212bec463a42e31704811386fa45db263346"
     },
     "network/edges-13.json.gz": {
-      "bytes": 97966,
-      "decodedBytes": 375379,
-      "sha256": "ea26e2c7d4507cc90d2f5aaf177825d6613119fdfe7da654f9fb9fa23c87ed91"
+      "bytes": 157092,
+      "decodedBytes": 568875,
+      "sha256": "b85d157ed7c5783a5a6e9b8207c7afef10789ea4a00ae3e727aade0db4adaede"
     },
     "network/edges-14.json.gz": {
-      "bytes": 102085,
-      "decodedBytes": 389990,
-      "sha256": "d5b56d696e4f9e52d59744686b2ff1d06c43f72168e3e43b611b3d9aaa1d479b"
+      "bytes": 165162,
+      "decodedBytes": 594211,
+      "sha256": "d124d63af20bf14735405c893162c271e5370ac8680e9d4f8428621b8d786adb"
     },
     "network/edges-15.json.gz": {
-      "bytes": 95125,
-      "decodedBytes": 361288,
-      "sha256": "63c2da6a2bea084946ab26f895ef7701a5c6fd8cc5e1a3f78059cb3968120d6e"
+      "bytes": 146295,
+      "decodedBytes": 530871,
+      "sha256": "e25b1df41db703fb24024393dfa18cbaaec1a1a8828fbaa179180aad6f911de2"
     },
     "network/edges-16.json.gz": {
-      "bytes": 97019,
-      "decodedBytes": 369132,
-      "sha256": "5e837dbb6c05cae327fb02693a1043558038c9040723630afa7d56035524922f"
+      "bytes": 155726,
+      "decodedBytes": 558588,
+      "sha256": "3607c58628ecb83af0acc1f80d2efed5055af143ed44791e3a2fe06514d3a459"
     },
     "network/edges-17.json.gz": {
-      "bytes": 102720,
-      "decodedBytes": 390432,
-      "sha256": "4769a3782a263f602a25d281fde21d44b969192c77a7d158b88c23e43be39a64"
+      "bytes": 165699,
+      "decodedBytes": 594871,
+      "sha256": "92904f8760caa2cce5e7d6141fcbb497bb597886db606d7e50b952afb7512a25"
     },
     "network/edges-18.json.gz": {
-      "bytes": 91288,
-      "decodedBytes": 345685,
-      "sha256": "d42437f04794cd33c267a3ea7b1e8088a711bcf32c21121b3a8638cc047fe565"
+      "bytes": 146236,
+      "decodedBytes": 522555,
+      "sha256": "83009ceffb70c019a634426d87ae46536f40142fd7a0ab53fc919d4fd6e426dc"
     },
     "network/edges-19.json.gz": {
-      "bytes": 107103,
-      "decodedBytes": 408759,
-      "sha256": "90d387df2991954c3c375070960ff1545d3466c367259c664b1983a304960c74"
+      "bytes": 170427,
+      "decodedBytes": 614911,
+      "sha256": "b950f75a2807222b1cb2de2f69fdb771e0682e55d9d7231214b15c23411cde1c"
     },
     "network/edges-1a.json.gz": {
-      "bytes": 100968,
-      "decodedBytes": 384013,
-      "sha256": "a8864935903feee38ec1d80e64827062462223b37ced9ad092fca6d32d3fe549"
+      "bytes": 161149,
+      "decodedBytes": 579846,
+      "sha256": "045136ada737e2d5169f6073998216fe550dc718bcab954a262002ae3fe8858d"
     },
     "network/edges-1b.json.gz": {
-      "bytes": 107841,
-      "decodedBytes": 413102,
-      "sha256": "4f73c66bc1cdb0942e3de68db3ce79c146e008919b345be7530dbabc1ad95976"
+      "bytes": 170086,
+      "decodedBytes": 617893,
+      "sha256": "675a27c7e56b6a485706fa59c099ebabd4f317920acfc94e13fcba6efa5d01e7"
     },
     "network/edges-1c.json.gz": {
-      "bytes": 101005,
-      "decodedBytes": 388456,
-      "sha256": "0de561830a7736d5cb377534560fffc9dbdab1e06a19f70caf22ff138fd0eac6"
+      "bytes": 163453,
+      "decodedBytes": 591362,
+      "sha256": "75b11175c69b5c88c0d5a8e9ea568198d7b33503c6748935241ecc4a2cc8276f"
     },
     "network/edges-1d.json.gz": {
-      "bytes": 94275,
-      "decodedBytes": 359126,
-      "sha256": "f84c2e621e22f1cf7d23cfe0df69cfb6e635b3aee6f20f7825392dab1c0b88c3"
+      "bytes": 151041,
+      "decodedBytes": 544396,
+      "sha256": "76cbdaa22a12b6af0753b8235b4145c205f2f14fe5acc06334e66f8d6a0b8b05"
     },
     "network/edges-1e.json.gz": {
-      "bytes": 82733,
-      "decodedBytes": 310056,
-      "sha256": "69eba8cb1ed3897d6d873c7d24d67b0a92882f4effb5205c63bb14cddc3db192"
+      "bytes": 129373,
+      "decodedBytes": 461726,
+      "sha256": "17b1fb6d20272958fcfa22daafec6d5147a761fc3b61295631e5c1369a5ac213"
     },
     "network/edges-1f.json.gz": {
-      "bytes": 105400,
-      "decodedBytes": 404278,
-      "sha256": "4ba5409c4cb669dd7abc469269273f887c31f84bc26160db6d8e943b2f28541e"
+      "bytes": 170917,
+      "decodedBytes": 617592,
+      "sha256": "772c133b5f59006e19553c083a563bc3ff460e3545812dff254ba833ff3e9077"
     },
     "network/edges-20.json.gz": {
-      "bytes": 103334,
-      "decodedBytes": 391399,
-      "sha256": "bf96acb9091b23bbfc051ffbc7d815b84334ba7b4a0dec0661155535c32dd5c2"
+      "bytes": 163311,
+      "decodedBytes": 588605,
+      "sha256": "e99557078b065837ab0f0fbcee68b838c601e2a201d35084b243d0a540a4387f"
     },
     "network/edges-21.json.gz": {
-      "bytes": 82922,
-      "decodedBytes": 309601,
-      "sha256": "c7d4aa64759a78f24ec0be3db4cf13cc1d6f1a48feb883dbe5bfb085d90c4611"
+      "bytes": 132139,
+      "decodedBytes": 468134,
+      "sha256": "9d7bdac176dd8c6a6ab5c776a28d403d10be96a14efa300234ef3082147e2daa"
     },
     "network/edges-22.json.gz": {
-      "bytes": 103653,
-      "decodedBytes": 395155,
-      "sha256": "0395f662c50aab7e682f010ae16b901ebb2fea9c590c1b5cdeee4d4425b9a427"
+      "bytes": 165268,
+      "decodedBytes": 597422,
+      "sha256": "62d3e1628eaa4c77e087b6731278feaecaf0cf08eae6594ddaf939b08999d1d0"
     },
     "network/edges-23.json.gz": {
-      "bytes": 111727,
-      "decodedBytes": 426935,
-      "sha256": "fd3041fbde89193a6b424352b89b1551cf82230f09e0607fada046f1e6eb2956"
+      "bytes": 178761,
+      "decodedBytes": 644496,
+      "sha256": "468e13a888eae352ee60aa708404014914b03088f0a5aa2b4e93aea8827506c7"
     },
     "network/edges-24.json.gz": {
-      "bytes": 99125,
-      "decodedBytes": 378726,
-      "sha256": "9aa5dc1fce882668cae8c2371ad39a93688e2107d8caa2136b889c7c956000d0"
+      "bytes": 156813,
+      "decodedBytes": 569257,
+      "sha256": "81b6a8ef12e1ced673f54814345aa4a39a825b767e1fe2d69a043c6905991af1"
     },
     "network/edges-25.json.gz": {
-      "bytes": 100794,
-      "decodedBytes": 384736,
-      "sha256": "40b45ddff489a05d78fc34e9da651c4ba56092f9c9f916df922dd07034e443ed"
+      "bytes": 164500,
+      "decodedBytes": 588836,
+      "sha256": "921fe43cef38987345397234cc595ce82ad16264aabf7b9b203617c013acdf39"
     },
     "network/edges-26.json.gz": {
-      "bytes": 97136,
-      "decodedBytes": 369296,
-      "sha256": "683c2a2a7b248a5b4f70bd6791faaa247b8dd58040ba7c596efb8648c66fe4f9"
+      "bytes": 156642,
+      "decodedBytes": 563817,
+      "sha256": "1afeb857c1ea15322efdb5bd1810a8a315a323a9eff00d5737b9a2698d01638b"
     },
     "network/edges-27.json.gz": {
-      "bytes": 87392,
-      "decodedBytes": 331051,
-      "sha256": "babca8dba4447a7450708bb819d58154cc767a91974263427260e4bf23786c88"
+      "bytes": 138902,
+      "decodedBytes": 496930,
+      "sha256": "b26204c6a7731a9df138c21c2c56f387c4e60336466f6c80b93847f1320e7c3c"
     },
     "network/edges-28.json.gz": {
-      "bytes": 96695,
-      "decodedBytes": 370688,
-      "sha256": "ba2f53aa9a56424a2df3f623f688ee5d173082d2564a3ed72ced2b4a57918afe"
+      "bytes": 158525,
+      "decodedBytes": 569025,
+      "sha256": "f0e36c000365258718893d4ca3511f146d8e1a899365ff239e35a9ab09fb4094"
     },
     "network/edges-29.json.gz": {
-      "bytes": 103992,
-      "decodedBytes": 394079,
-      "sha256": "a37a8252cf991a8793b734efc0188eecb1171545e4267ae1dfffe395b93f8d8d"
+      "bytes": 168257,
+      "decodedBytes": 600275,
+      "sha256": "ce951efd344cff98b55b66101036fdd42211e07c54b5e18a6c76a5c7d401bd2c"
     },
     "network/edges-2a.json.gz": {
-      "bytes": 97290,
-      "decodedBytes": 367544,
-      "sha256": "a47159684b0e5bf9b5d3eb30fa262fd7d6f9fee8129eafe1dd2f904db11e6bba"
+      "bytes": 155376,
+      "decodedBytes": 559377,
+      "sha256": "e402c4e39b73a22d28198252ab652dfb46135f7df3904f13b3bea2a593244bdc"
     },
     "network/edges-2b.json.gz": {
-      "bytes": 105856,
-      "decodedBytes": 405299,
-      "sha256": "f42cc59392eb0a368dce402c091acabe7470ce212c6f73c47fb73a95d564be75"
+      "bytes": 170083,
+      "decodedBytes": 616130,
+      "sha256": "2c1a2523396f7fe8e8b588c7a28e75f1e7648c159d2036af1bc9bfab51f8ab6c"
     },
     "network/edges-2c.json.gz": {
-      "bytes": 114683,
-      "decodedBytes": 441068,
-      "sha256": "5f1ec530ec4abcc22bacde7db67a690020b39c8b37cce704aa2fa68e1b9f7ee3"
+      "bytes": 188262,
+      "decodedBytes": 678249,
+      "sha256": "337514a298aac4333f42c35dc21ff32cb9eb3a0025ccaf1d94e956e648ccaa23"
     },
     "network/edges-2d.json.gz": {
-      "bytes": 107290,
-      "decodedBytes": 411568,
-      "sha256": "f016e6a6e510a35d3877413087719982fbb4a8b16c6aa7ad4477b8f7ec84372a"
+      "bytes": 172693,
+      "decodedBytes": 625403,
+      "sha256": "e9866e2bc287c45634eb62b5ac46af6f639aadf4349f401f63c880f9c62f25c1"
     },
     "network/edges-2e.json.gz": {
-      "bytes": 109061,
-      "decodedBytes": 413606,
-      "sha256": "cbfad0ec81e1e8cda969d0305aeed982bac5c128667ccb17cd6ab4714aa25b9a"
+      "bytes": 178218,
+      "decodedBytes": 637150,
+      "sha256": "cc1511795d8cca1cc5bb5183dacb619f0cda771f31bc4d381fb7402ec0a3f16b"
     },
     "network/edges-2f.json.gz": {
-      "bytes": 95140,
-      "decodedBytes": 363254,
-      "sha256": "216612680fea4b2b1df4325ca25b55b13a263badd893f89cafabda03cfa101ca"
+      "bytes": 149951,
+      "decodedBytes": 541687,
+      "sha256": "1bce4091fc8bc15bbb0dbcce872afcd077d7349a3eb9146b563e952ef5c96c1a"
     },
     "network/edges-30.json.gz": {
-      "bytes": 96637,
-      "decodedBytes": 372089,
-      "sha256": "78524a14f368d9795e919711ff064a7a82673c7616fc2306b3fa036e1275f5f6"
+      "bytes": 152693,
+      "decodedBytes": 554589,
+      "sha256": "a23f5157e212a813d4aa253b426d5a6c89f72603da904d8fd4389e76c4ae7c56"
     },
     "network/edges-31.json.gz": {
-      "bytes": 103578,
-      "decodedBytes": 395220,
-      "sha256": "1e69c08c35bfe9f783d0e2080153fd59bc66b2482aa5d79721224f0f5fadad21"
+      "bytes": 164012,
+      "decodedBytes": 592476,
+      "sha256": "4342e1f7fa2e12cc84a139128bc763e32016fb030e1ea396ae374ec22acd3474"
     },
     "network/edges-32.json.gz": {
-      "bytes": 99220,
-      "decodedBytes": 372024,
-      "sha256": "8803830d09f201fbd3d1a5005f11792d80df43e7a85ac86f5d3ba5dcd3456d39"
+      "bytes": 162446,
+      "decodedBytes": 573976,
+      "sha256": "fb05a8e7a56383d28291490596194673ef7797aa1ebc10ce21bb0f37101b9f9d"
     },
     "network/edges-33.json.gz": {
-      "bytes": 97333,
-      "decodedBytes": 366034,
-      "sha256": "9fa07c6a5955ef73d495ffc3c5d9351afe76be194b8f2a8cbbde413fae160f75"
+      "bytes": 155506,
+      "decodedBytes": 555352,
+      "sha256": "689353aebc17ff2b01d3ce137b846ff877cde86425196afd0daeece976098664"
     },
     "network/edges-34.json.gz": {
-      "bytes": 102123,
-      "decodedBytes": 381999,
-      "sha256": "8cc1bcfc02b9fd4eff156aaa5b55370334deae9834eb0550621ed44b76e8f8a9"
+      "bytes": 167274,
+      "decodedBytes": 590018,
+      "sha256": "e25de09c9001a08c7c820ecb1204e30cee68ee6dfc8e5f654b72d4f03f6844d0"
     },
     "network/edges-35.json.gz": {
-      "bytes": 97006,
-      "decodedBytes": 367120,
-      "sha256": "0359afe72fbe5b8b8678ebcd2d5eb62e539694d4e354666089a9bc5580962bd3"
+      "bytes": 159794,
+      "decodedBytes": 566751,
+      "sha256": "22c5212261624b0dae8f8bfac850387dddd535497eaf998800b7abc2a775baf9"
     },
     "network/edges-36.json.gz": {
-      "bytes": 95956,
-      "decodedBytes": 361769,
-      "sha256": "8580757dd8e9076b60cd19284632d47f6f0f69e3dc3d2f20dce86200ee3632e7"
+      "bytes": 154195,
+      "decodedBytes": 548222,
+      "sha256": "c9f33d611062116822f77cf78a2b354174a26ee6f3d8faabe1b38408c0c2f272"
     },
     "network/edges-37.json.gz": {
-      "bytes": 116050,
-      "decodedBytes": 439659,
-      "sha256": "ccb837add7582fdc36188bf112bdd72dc503982d44ad09b1e1b4fac15cb0094d"
+      "bytes": 190564,
+      "decodedBytes": 676451,
+      "sha256": "4091eacf8344ff7fa53df4db4bcec22ffa38e725aa3375957eb6fa9a9508db69"
     },
     "network/edges-38.json.gz": {
-      "bytes": 94988,
-      "decodedBytes": 360927,
-      "sha256": "9126e9c10563d76926ec8e902f2f7d23543d74f211ad8d382a605bbe8a00041e"
+      "bytes": 152573,
+      "decodedBytes": 549471,
+      "sha256": "0cba2d544163ed50c0c0869527887853ceef5097da003f9d607862dad2228ad4"
     },
     "network/edges-39.json.gz": {
-      "bytes": 103935,
-      "decodedBytes": 392712,
-      "sha256": "3c2e11274e2bff1ddbee25824e1c12d55389074caefe3b9c3a24e024a62fa7d9"
+      "bytes": 162205,
+      "decodedBytes": 584482,
+      "sha256": "239fe34124531dd42269dffc1df18fad6a6b33eafdc8a3a84b540daf16dc870c"
     },
     "network/edges-3a.json.gz": {
-      "bytes": 90208,
-      "decodedBytes": 341871,
-      "sha256": "581a123dbc12d3de9583ac3d4411c53a283780db45780d64acaf9bb968269a67"
+      "bytes": 145072,
+      "decodedBytes": 516981,
+      "sha256": "1bd653034a35cd1d1c7d548c16ab3f09b8b9af729da6a46f679018038c3874c0"
     },
     "network/edges-3b.json.gz": {
-      "bytes": 95237,
-      "decodedBytes": 358295,
-      "sha256": "03d05344eafdf67bdc1a8b85dd7bf31f7a4eecf0c4bdfae67793357b7e4eb5d4"
+      "bytes": 149056,
+      "decodedBytes": 534407,
+      "sha256": "04a3d054c9db2c7ce1d148199403fd6d136eef7c3a3c5eb9441aca1d866dcc14"
     },
     "network/edges-3c.json.gz": {
-      "bytes": 105539,
-      "decodedBytes": 402989,
-      "sha256": "b65193ddab2c4ac0870e24d35ce5ba0b623cb48dc966683ada7935c67fb8c3e8"
+      "bytes": 172718,
+      "decodedBytes": 620062,
+      "sha256": "093e4efa85afc318ced13af6591860186cf8720013ae9cb6d60207ba9c61cf52"
     },
     "network/edges-3d.json.gz": {
-      "bytes": 94654,
-      "decodedBytes": 358080,
-      "sha256": "eb476f737fb8e2d395411d6e08e8a79460b3c7b9367613873ad3da2a195d8440"
+      "bytes": 148830,
+      "decodedBytes": 535792,
+      "sha256": "9ec52b530dbb847dca160c2f852f7ee5b9a10b918304edaa4e56a8e2062eaae5"
     },
     "network/edges-3e.json.gz": {
-      "bytes": 106426,
-      "decodedBytes": 404631,
-      "sha256": "72c74ce47dea3ebeaf71986b62e855c7674217bdcd16d6502268a9ab1f7a0c9e"
+      "bytes": 171012,
+      "decodedBytes": 614370,
+      "sha256": "e43d7024dbf86590e9ff7937cb1e491a8667331919b749e00228fa0cd48ccbc2"
     },
     "network/edges-3f.json.gz": {
-      "bytes": 98955,
-      "decodedBytes": 377072,
-      "sha256": "e6075386356789df4114cf4fc5bf3e2de10556425d91b339a1ee88b21d536227"
+      "bytes": 155804,
+      "decodedBytes": 563361,
+      "sha256": "566555b732a0f6fa2dca87222c909395c826825e95aec1023578958ea2250290"
     },
     "network/nodes.json.gz": {
-      "bytes": 1399907,
-      "decodedBytes": 9449668,
-      "sha256": "7ce3da95e54e89509c6c3f43aed1f313c41d9afa0268d426bcb6b77ad939c15a"
+      "bytes": 1400220,
+      "decodedBytes": 9450524,
+      "sha256": "9abae7b6fe9d81722c4793750586bfe6d5834288b89b79cf5e1314c7cef02e56"
     },
     "vocabulary.json.gz": {
       "bytes": 352897,

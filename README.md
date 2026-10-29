@@ -14,3 +14,5 @@ separate types; limited coverage does not imply a relation does not exist.
 
 The generated audio manifest is retained in the private source project; these
 MP3 recordings are downloadable assets for the same app, not an online TTS API.
+
+The downloadable relation format is tuple-v2. It retains the original relation fields and includes explicitly sourced target-definition/POS evidence; absent reverse evidence stays empty.
