@@ -1116,6 +1116,11 @@
       "decodedBytes": 116577,
       "sha256": "0eb3ccbe84d1fd176db3a22138782ce6eeef1b3bb57fd8b8e22c5e729450d7c0"
     },
+    "editorial.json.gz": {
+      "bytes": 8467,
+      "decodedBytes": 30427,
+      "sha256": "b88b620dddd98bff995e69b4992167acd815f8a2061f5707dd008f9613cc30a4"
+    },
     "network/edges-00.json.gz": {
       "bytes": 113941,
       "decodedBytes": 434449,
